@@ -240,7 +240,7 @@
     "**/@okta/okta-sdk-nodejs/njwt": "^2.0.1",
     "**/brace-expansion": "^2.0.2",
     "**/tmp": "^0.2.4",
-    "**/@babel/runtime": "^7.27.0",
+    "**/@babel/runtime": "^7.28.6",
     "**/axios": "^1.15.0"
   },
   "workspaces": {
