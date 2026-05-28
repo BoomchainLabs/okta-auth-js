@@ -2,7 +2,11 @@
   "private": true,
   "name": "@okta/okta-auth-js",
   "description": "The Okta Auth SDK",
+<<<<<<< HEAD
   "version": "8.1.0",
+=======
+  "version": "8.0.1",
+>>>>>>> origin/8.0
   "homepage": "https://github.com/okta/okta-auth-js",
   "license": "Apache-2.0",
   "main": "build/cjs/exports/default.js",
@@ -240,7 +244,11 @@
     "**/@okta/okta-sdk-nodejs/njwt": "^2.0.1",
     "**/brace-expansion": "^2.0.2",
     "**/tmp": "^0.2.4",
+<<<<<<< HEAD
     "**/@babel/runtime": "^7.27.0",
+=======
+    "**/@babel/runtime": "^7.28.6",
+>>>>>>> origin/8.0
     "**/axios": "^1.15.0"
   },
   "workspaces": {
